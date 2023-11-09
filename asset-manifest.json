@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/quotesForBeginnerProgrammers/static/css/main.5d865d55.css",
+    "main.js": "/quotesForBeginnerProgrammers/static/js/main.53b63db7.js",
+    "static/media/programming.jpg": "/quotesForBeginnerProgrammers/static/media/programming.7ea717c7127d7ae5c58d.jpg",
+    "index.html": "/quotesForBeginnerProgrammers/index.html",
+    "main.5d865d55.css.map": "/quotesForBeginnerProgrammers/static/css/main.5d865d55.css.map",
+    "main.53b63db7.js.map": "/quotesForBeginnerProgrammers/static/js/main.53b63db7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d865d55.css",
+    "static/js/main.53b63db7.js"
+  ]
+}
