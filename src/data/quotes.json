@@ -1,0 +1,18 @@
+{
+    "total_results": "11", 
+    "query": "life", 
+    "slips": [
+        {
+            "id":14,
+            "advice":"Life is better when you sing about bananas.",
+            "date":"2015-12-13"
+        }, 
+        {
+            "id":117,
+            "advice":"A common regret in life is wishing one hadn't worked so hard.",
+            "date":"2017-02-07"
+        },
+        {"id":118,"advice":"A common regret in life is wishing one had the courage to be ones true self.","date":"2015-11-19"},{"id":122,"advice":"You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.","date":"2016-05-25"},{"id":130,"advice":"If you have grandparents or parents - Talk to them more. Ask them about their life experiences.","date":"2016-10-06"},{"id":147,"advice":"Don't take life too seriously.","date":"2015-08-20"},{"id":156,"advice":"Life is short enough, don't race to the finish.","date":"2016-07-30"},{"id":157,"advice":"When something goes wrong in life, just shout \"plot twist!\" and carry on.","date":"2016-09-14"},{"id":158,"advice":"Life can be a lot more interesting inside your head.","date":"2016-11-11"},{"id":164,"advice":"Some of life's best lessons are learnt at the worst times.","date":"2016-05-11"},{"id":193,"advice":"Value the people in your life.","date":"2013-01-01"}]}
+
+        
+        

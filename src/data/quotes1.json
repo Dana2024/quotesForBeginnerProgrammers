@@ -1,0 +1,57 @@
+{
+    "total_results": "10", 
+    "query": "programming", 
+    "slips": [
+        {
+            "id":1,
+            "advice":"Praise yourself everyday. What positive small things did you accomplish today?",
+            "date":"2015-12-13"
+        }, 
+        {
+            "id":2,
+            "advice":"If you've decided to create a project for your portfolio, just do it well enough. It doesn't have to be perfect.",
+            "date":"2017-02-07"
+        },
+        {
+            "id":3,"advice":"Allow yourself to study the way you will enjoy - whether it's listening to a lecture, reading, or working on a project. The key is to keep moving forward on your journey.","date":"2015-11-19"
+        },
+        {
+            "id":4,
+            "advice":"You are smart enough. If there's something you don't grasp immediately, trust that understanding will come with time.",
+            "date":"2015-12-13"
+        },
+        {
+            "id":5,
+            "advice":"Be patient. Don't demand from yourself quick results. Becoming a programmer may take 6 months for some and 2 years for others. Everyone's journey is unique and that's ok",
+            "date":"2015-12-13"
+        },
+        {
+            "id":6,
+            "advice":"If you feel weary, remind yourself: 'I am a successful person and doing what I enjoy.'",
+            "date":"2015-12-13"
+        },
+        {
+            "id":7,
+            "advice":"View everything as a victory. Treat failures as valuable experiences.",
+            "date":"2015-12-13"
+        },
+        {
+            "id":8,
+            "advice":"Just get ready to do something. Open your computer and have a notebook ready for writing. This will help to start.",
+            "date":"2015-12-13"
+        },
+        {
+            "id":9,
+            "advice":"Create simple projects for your portfolio. The more you make, the more you'll learn.",
+            "date":"2015-12-13"
+        },
+        {
+            "id":10,
+            "advice":"Surround yourself with positive individuals and those you can seek advice from—people you aspire to be like.",
+            "date":"2015-12-13"
+        }
+
+        ]
+}
+
+        
